@@ -1,1 +1,1 @@
-# Weather--Dashboard
+This is an example of using a 3rd party API to access data and funcuntionality. This useses the  OpenWeather One Call API (Links to an external site.) to retrieve weather data for cities. . https://openweathermap.org/api/one-call-api
